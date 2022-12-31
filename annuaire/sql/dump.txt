@@ -1,0 +1,11 @@
++-------------+--------------+---------+------------+------------+----------------+------------+-------------------------------+----------------+-------+--------------------------+
+| id_annuaire | nom          | prenom  | telephone  | profession | ville          | codepostal | adresse                       | date_naissance | sexe  | description              |
++-------------+--------------+---------+------------+------------+----------------+------------+-------------------------------+----------------+-------+--------------------------+
+|           1 | Mbappe       | Kyllian | 0610931898 | Footballer | Paris          |      75016 | 24 Rue du Commandant Guilbaud | 1998-12-20     | m     | Le football il a changé! |
+|           2 | Dembele      | Ousmane | 0611971898 | Footballer | Barcelone      |      08028 | C. d'Arístides Maillol        | 1997-06-15     | m     | Hein?!                   |
+|           3 | ferdinand    | samm    | 0613041898 | etudiant   | paris          |      95760 | neuilly plaisir               | 2006-12-06     | m     | bon.                     |
+|           4 | samm         | gamegie | 0613041898 | etudiant   | viry-chatillon |      06555 | mordor                        | 2002-03-15     | m     | ah gars!                 |
+|           5 | mademoiselle | lou     | 0613041898 | artiste    | paris          |      60700 | neuilly plaisir               | 2002-03-15     | f     | solo!                    |
+|           6 | ah           | bad     | 0613041898 | sorcelleur | barcelone      |      75016 | 24 rue du commandant guilbaud | 2002-03-15     | other | benvenido                |
+|           7 | puech        | simon   | 0613041898 | youtuber   | viry-chatillon |      06555 | 55 rue de la limace           | 2016-05-03     | other | bandeur de guerre        |
++-------------+--------------+---------+------------+------------+----------------+------------+-------------------------------+----------------+-------+--------------------------+
